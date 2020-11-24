@@ -1,0 +1,8 @@
+.styledFont {
+  color: green;
+  font-weight: bold;
+}
+
+#styledImage {
+  border: 10px solid orange;
+}
